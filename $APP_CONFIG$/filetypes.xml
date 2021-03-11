@@ -1,0 +1,28 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="commentRead" type="PLAIN_TEXT" />
+      <mapping pattern="getConversationInfo.py" type="PLAIN_TEXT" />
+      <mapping pattern="commentUnlabeledWithoutParent" type="PLAIN_TEXT" />
+      <mapping pattern="contentHidden" type="PLAIN_TEXT" />
+      <mapping pattern="CommentCreatedByUser" type="PLAIN_TEXT" />
+      <mapping pattern="FacebookReplyRemoved.json" type="PLAIN_TEXT" />
+      <mapping pattern="IndexPrivateMessageCommandWithoutConversationUuid.json" type="PLAIN_TEXT" />
+      <mapping pattern="FacebookNestedCommentAdded" type="PLAIN_TEXT" />
+      <mapping pattern="getExportResponse" type="PLAIN_TEXT" />
+      <mapping ext="what" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="json" approved="true" type="TML" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="FacebookMessageWithStickerAdded.json" approved="true" type="yarn.lock" />
+    </extensionMap>
+  </component>
+</application>

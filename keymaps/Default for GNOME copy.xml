@@ -1,0 +1,142 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift alt #10000c5" />
+  </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="ChangesView.ShelveSilently" />
+  <action id="CheckinProject" />
+  <action id="CollapseBlock">
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+    <keyboard-shortcut first-keystroke="ctrl alt #10000c5" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl 7" />
+  </action>
+  <action id="ContextHelp">
+    <keyboard-shortcut first-keystroke="shift ctrl f1" />
+  </action>
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="altGraph r" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="GotoBookmark7" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
+  <action id="InsertLiveTemplate" />
+  <action id="MethodHierarchy" />
+  <action id="MethodHierarchy.BaseOnThisMethod" />
+  <action id="NextEditorTab" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl insert" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="RecentChanges" />
+  <action id="RunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt #10000d8" />
+  </action>
+  <action id="ScrollPane-scrollDown">
+    <keyboard-shortcut first-keystroke="ctrl #10000c5" />
+  </action>
+  <action id="ScrollPane-unitScrollDown">
+    <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
+  <action id="ScrollPane-unitScrollUp">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift alt #10000c6" />
+  </action>
+  <action id="Switcher" />
+  <action id="TableResult.UnselectPreviousOccurrence" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="UnselectPreviousOccurrence" />
+  <action id="UpdateRunningApplication" />
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="momomo.com.intellij.plugins.Move.actions.MoveTab.MoveTab$Left">
+    <keyboard-shortcut first-keystroke="shift ctrl page_up" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="momomo.com.intellij.plugins.Move.actions.MoveTab.MoveTab$Right">
+    <keyboard-shortcut first-keystroke="shift ctrl page_down" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+</keymap>

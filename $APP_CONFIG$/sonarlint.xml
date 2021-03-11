@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.flcn.io/" />
+          <token>df92dfcedf98df92dfc8dfccdf92df9fdf9ddf9ddfcfdf9cdf9bdfcbdfcfdfcbdf92df99df9bdf9ddf9edf9fdf92dfcedfc9df9adf99dfc9dfc9dfc8dfcfdf9adf92df9cdf9fdf93df9cdfcbdf99df9b</token>
+          <option name="name" value="Falcon" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
