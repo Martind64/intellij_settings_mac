@@ -4,4 +4,22 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="rnn" value="java.util.Objects.requireNonNull($VAR$, &quot;$VAR$ is required&quot;);&#10;$END$" description="Require non null" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="pfs" value="private final String" description="private final" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="tc" value="try{&#10;    $SELECTION$&#10;}catch($VAR$ ex) {&#10;    $DO_SOMETHING$&#10;}" description="Surround with try catch" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DO_SOMETHING" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
