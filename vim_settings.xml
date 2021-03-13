@@ -21,6 +21,7 @@
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGlvblJlc3VsdFw+</entry>
         <entry encoding="base64">XDxBdXRoZW50aWNhdGlvblN1Y2Nlc3NIYW5kbGVyXD4=</entry>
+        <entry encoding="base64">XDxqd3REZWNvZGVyRmFjdG9yeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -114,7 +115,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/resources/application.yml" timestamp="1615505037958">
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/resources/application.yml" timestamp="1615667277954">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="12" />
         <mark key="." line="17" column="12" />
@@ -145,12 +146,6 @@
         <mark key="^" line="109" column="102" />
         <mark key="." line="109" column="101" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/FilterChainProxy.java" timestamp="1615504803345">
-        <mark key="[" line="312" column="39" />
-        <mark key="]" line="312" column="39" />
-        <mark key="^" line="312" column="39" />
-        <mark key="." line="312" column="38" />
-      </file>
       <file name="$USER_HOME$/projects/saerbestilling/webservice/build.gradle" timestamp="1615654150918" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-resource-server/5.4.5/536bec14be236d100b9424c360c9b2c6d8d1cf03/spring-security-oauth2-resource-server-5.4.5-sources.jar!/org/springframework/security/oauth2/server/resource/authentication/JwtAuthenticationProvider.java" timestamp="1615507311720">
         <mark key="[" line="67" column="40" />
@@ -160,6 +155,11 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.4.5/c1616b78f466a5bfe0e206cbe1523bd71c6c612/spring-security-core-5.4.5-sources.jar!/org/springframework/security/authentication/ProviderManager.java" timestamp="1615665038739" />
       <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/security/filter/JwtAuthenticationFilter.java" timestamp="1615664744404" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/oidc/authentication/OidcAuthorizationCodeAuthenticationProvider.java" timestamp="1615667538365">
+        <mark key="'" line="212" column="33" />
+        <mark key="[" line="120" column="8" />
+        <mark key="]" line="120" column="37" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/DefaultRedirectStrategy.java" timestamp="1615660790995">
         <mark key="'" line="28" column="32" />
       </file>
@@ -233,18 +233,23 @@
       <jump line="70" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.java" />
       <jump line="123" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.java" />
       <jump line="169" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.java" />
+      <jump line="97" column="50" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/oidc/authentication/OidcAuthorizationCodeAuthenticationProvider.java" />
+      <jump line="206" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/oidc/authentication/OidcAuthorizationCodeAuthenticationProvider.java" />
+      <jump line="210" column="81" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/oidc/authentication/OidcAuthorizationCodeAuthenticationProvider.java" />
+      <jump line="211" column="43" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/oidc/authentication/OidcAuthorizationCodeAuthenticationProvider.java" />
+      <jump line="212" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/oidc/authentication/OidcAuthorizationCodeAuthenticationProvider.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>JsonMapper.asString(principal)</text>
+        <text>OAuth2LoginAuthenticationToken</text>
       </register>
       <register name="-" type="4">
-        <text>JsonMapper.asString(principal)</text>
+        <text>OAuth2LoginAuthenticationToken</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBdXRoZW50aWNhdGlvblN1Y2Nlc3NIYW5kbGVyXD4=</text>
+        <text encoding="base64">XDxqd3REZWNvZGVyRmFjdG9yeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAgICAgICAgICAgIHJlZGlyZWN0LXVyaTogaHR0cDovL2xvY2FsaG9zdDo4MDgwL2xvZ2luL29hdXRoMi9jb2RlLwo=</text>
@@ -283,9 +288,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxBdXRoZW50aWNhdGlvblN1Y2Nlc3NIYW5kbGVyXD4=</last-search>
+      <last-search encoding="base64">XDxqd3REZWNvZGVyRmFjdG9yeVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBdXRoZW50aWNhdGlvblN1Y2Nlc3NIYW5kbGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxqd3REZWNvZGVyRmFjdG9yeVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
