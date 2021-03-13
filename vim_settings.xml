@@ -147,10 +147,16 @@
         <mark key="^" line="8" column="8" />
         <mark key="." line="8" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/adapter/controller/OrderController.java" timestamp="1615655566418">
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="47" />
+        <mark key="." line="33" column="46" />
+        <mark key="^" line="33" column="47" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1615496864542">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationCodeGrantFilter.java" timestamp="1615655500464" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationCodeGrantFilter.java" timestamp="1615656275076" />
       <file name="/fragment.java" timestamp="1615654875381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
@@ -184,11 +190,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAub2EK</text>
+      <register name="&quot;" type="4">
+        <text>JsonMapper.asString(principal)</text>
       </register>
       <register name="-" type="4">
-        <text>oauth2Client</text>
+        <text>JsonMapper.asString(principal)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</text>
