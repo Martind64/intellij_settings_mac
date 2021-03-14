@@ -177,6 +177,7 @@
         <mark key="^" line="109" column="102" />
         <mark key="." line="109" column="101" />
       </file>
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/build.gradle" timestamp="1615765537579" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/DefaultRedirectStrategy.java" timestamp="1615660790995">
         <mark key="'" line="28" column="32" />
       </file>
@@ -184,11 +185,6 @@
         <mark key="'" line="161" column="84" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2LoginAuthenticationFilter.java" timestamp="1615760828867" />
-      <file name="/fragment.java" timestamp="1615654875381">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="11" column="3" filename="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/adapter/controller/hello.java" />
