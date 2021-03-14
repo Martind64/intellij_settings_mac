@@ -173,22 +173,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.composerlog">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.conf">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.config">
           <value>
             <plugin>
@@ -222,14 +206,6 @@
               <option name="myPluginId" value="com.intellij.database" />
               <option name="myPluginName" value="Database Tools and SQL" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.ctp">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
             </plugin>
           </value>
         </entry>
@@ -593,14 +569,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.hphp">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.htm">
           <value>
             <plugin>
@@ -679,14 +647,6 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.inc">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
             </plugin>
           </value>
         </entry>
@@ -1101,14 +1061,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.module">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.ng">
           <value>
             <plugin>
@@ -1187,86 +1139,6 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.phar">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.phar.bz2">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.phar.gz">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.phar.tar.bz2">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.phar.tar.gz">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.phar.zip">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.php">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.php4">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.php5">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.phtml">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
             </plugin>
           </value>
         </entry>
@@ -1699,14 +1571,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.tpl">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.trace">
           <value>
             <plugin>
@@ -2011,14 +1875,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*phar.tar">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-            </plugin>
-          </value>
-        </entry>
         <entry key=".babelrc">
           <value>
             <plugin>
@@ -2225,15 +2081,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="composer.lock">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="exclude">
           <value>
             <plugin>
@@ -2311,15 +2158,6 @@
             <plugin>
               <option name="myPluginId" value="org.intellij.groovy" />
               <option name="myPluginName" value="Groovy" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="phpunit.xml.dist">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -2478,6 +2316,11 @@
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
+                  <entry key="ComposePreviewRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Compose Preview" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
                   <entry key="ComposerRunConfigurationType">
@@ -2708,6 +2551,11 @@
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
+                    </value>
+                  </entry>
+                  <entry key="SpaceRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" />
                     </value>
                   </entry>
                   <entry key="SpringBootApplicationConfigurationType">
@@ -2953,6 +2801,11 @@
                   <entry key="javafx-preloader">
                     <value>
                       <FeaturePluginData displayName="JavaFx preloader" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" />
+                    </value>
+                  </entry>
+                  <entry key="jpackage">
+                    <value>
+                      <FeaturePluginData displayName="Platform specific package" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" />
                     </value>
                   </entry>
                   <entry key="plain">
