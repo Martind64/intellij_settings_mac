@@ -22,12 +22,14 @@
         <entry encoding="base64">XDxhdXRoZW50aWNhdGlvblJlc3VsdFw+</entry>
         <entry encoding="base64">XDxBdXRoZW50aWNhdGlvblN1Y2Nlc3NIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxqd3REZWNvZGVyRmFjdG9yeVw+</entry>
+        <entry>SecurityContext</entry>
+        <entry>SecurityContextHolder</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -121,37 +123,19 @@
         <mark key="." line="17" column="12" />
         <mark key="^" line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/web/reactive/function/client/ServletOAuth2AuthorizedClientExchangeFilterFunction.java" timestamp="1615506849365">
-        <mark key="'" line="544" column="79" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" timestamp="1615654431025">
-        <mark key="'" line="517" column="33" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" timestamp="1615660287066">
-        <mark key="'" line="97" column="35" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2ClientConfigurer.java" timestamp="1615759082338" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/authentication/OAuth2AuthorizationCodeAuthenticationProvider.java" timestamp="1615664337423">
         <mark key="'" line="87" column="51" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/InMemoryOAuth2AuthorizedClientService.java" timestamp="1615661821342" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.java" timestamp="1615664880191">
-        <mark key="'" line="169" column="28" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/FilterChainProxy.java" timestamp="1615759676558">
+        <mark key="[" line="312" column="39" />
+        <mark key="]" line="312" column="39" />
+        <mark key="^" line="312" column="39" />
+        <mark key="." line="312" column="38" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java" timestamp="1615507172650">
-        <mark key="'" line="125" column="36" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/web/AuthenticatedPrincipalOAuth2AuthorizedClientRepository.java" timestamp="1615662626426">
-        <mark key="[" line="109" column="102" />
-        <mark key="]" line="109" column="102" />
-        <mark key="^" line="109" column="102" />
-        <mark key="." line="109" column="101" />
-      </file>
-      <file name="$USER_HOME$/projects/saerbestilling/webservice/build.gradle" timestamp="1615654150918" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-resource-server/5.4.5/536bec14be236d100b9424c360c9b2c6d8d1cf03/spring-security-oauth2-resource-server-5.4.5-sources.jar!/org/springframework/security/oauth2/server/resource/authentication/JwtAuthenticationProvider.java" timestamp="1615507311720">
-        <mark key="[" line="67" column="40" />
-        <mark key="]" line="67" column="40" />
-        <mark key="^" line="67" column="40" />
-        <mark key="." line="67" column="39" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" timestamp="1615759393953">
+        <mark key="'" line="1549" column="17" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.4.5/c1616b78f466a5bfe0e206cbe1523bd71c6c612/spring-security-core-5.4.5-sources.jar!/org/springframework/security/authentication/ProviderManager.java" timestamp="1615665038739" />
       <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/security/filter/JwtAuthenticationFilter.java" timestamp="1615664744404" />
@@ -160,21 +144,37 @@
         <mark key="[" line="120" column="8" />
         <mark key="]" line="120" column="37" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/authentication/AnonymousAuthenticationFilter.java" timestamp="1615759352223" />
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/configuration/WebSecurityConfig.java" timestamp="1615759813421">
+        <mark key="'" line="63" column="21" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/adapter/controller/OrderController.java" timestamp="1615758938184">
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="28" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" timestamp="1615654431025">
+        <mark key="'" line="517" column="33" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" timestamp="1615660287066">
+        <mark key="'" line="97" column="35" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.java" timestamp="1615664880191">
+        <mark key="'" line="169" column="28" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/web/AuthenticatedPrincipalOAuth2AuthorizedClientRepository.java" timestamp="1615662626426">
+        <mark key="[" line="109" column="102" />
+        <mark key="]" line="109" column="102" />
+        <mark key="^" line="109" column="102" />
+        <mark key="." line="109" column="101" />
+      </file>
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/build.gradle" timestamp="1615654150918" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/DefaultRedirectStrategy.java" timestamp="1615660790995">
         <mark key="'" line="28" column="32" />
-      </file>
-      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/configuration/WebSecurityConfig.java" timestamp="1615664783335">
-        <mark key="'" line="63" column="21" />
-        <mark key="[" line="61" column="36" />
-        <mark key="]" line="62" column="26" />
-        <mark key="." line="62" column="25" />
-        <mark key="^" line="62" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/adapter/controller/OrderController.java" timestamp="1615655566418">
-        <mark key="[" line="33" column="33" />
-        <mark key="]" line="33" column="47" />
-        <mark key="." line="33" column="46" />
-        <mark key="^" line="33" column="47" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationCodeGrantFilter.java" timestamp="1615665164145">
         <mark key="'" line="161" column="84" />
@@ -238,59 +238,75 @@
       <jump line="210" column="81" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/oidc/authentication/OidcAuthorizationCodeAuthenticationProvider.java" />
       <jump line="211" column="43" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/oidc/authentication/OidcAuthorizationCodeAuthenticationProvider.java" />
       <jump line="212" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/oidc/authentication/OidcAuthorizationCodeAuthenticationProvider.java" />
+      <jump line="2250" column="81" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="55" column="70" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="65" column="49" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="75" column="48" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="1360" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="1363" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="1366" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="1367" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="1371" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="66" column="49" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="1361" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="1372" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="1503" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="1509" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="1543" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
+      <jump line="1549" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>OAuth2LoginAuthenticationToken</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>OAuth2LoginAuthenticationToken</text>
+        <text>@AuthenticationPrincipal OAuth2User principal</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqd3REZWNvZGVyRmFjdG9yeVw+</text>
+        <text>SecurityContextHolder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAgICAgICAgICAgIHJlZGlyZWN0LXVyaTogaHR0cDovL2xvY2FsaG9zdDo4MDgwL2xvZ2luL29hdXRoMi9jb2RlLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAub2EK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kKCkKICAgICAgICAgICAgICAgICAgICAuand0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAub2EK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kKCkKICAgICAgICAgICAgICAgICAgICAuand0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3VjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCB2YXIgbGluZTEgPSAiIjsKICAgICAgICBmaW5hbCB2YXIgbGluZTIgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3VjCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCB2YXIgbGluZTEgPSAiIjsKICAgICAgICBmaW5hbCB2YXIgbGluZTIgPSAiIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBoZWxsbyhTdHJpbmcgaGVqLCBTdHJpbmcgd2hhdCkgewogICAgICAgIGZpbmFsIHZhciBoID0gImhWdWVqIjsKICAgICAgICBmaW5hbCB2YXIgaCA9ICJoZWoiOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCB2YXIgbGluZTEgPSAiIjsKICAgICAgICBmaW5hbCB2YXIgbGluZTIgPSAiIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgogICAgcHVibGljIGhleShTdHJpbmcgaGVqLCBTdHJpbmcgd2hhdCkgewogICAgICAgIGZpbmFsIHZhciBoID0gImhWdWVqIjsKICAgICAgICBmaW5hbCB2YXIgaCA9ICJoZWoiOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBoZWxsbyhTdHJpbmcgaGVqLCBTdHJpbmcgd2hhdCkgewogICAgICAgIGZpbmFsIHZhciBoID0gImhWdWVqIjsKICAgICAgICBmaW5hbCB2YXIgaCA9ICJoZWoiOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxqd3REZWNvZGVyRmFjdG9yeVw+</last-search>
+      <last-search>SecurityContextHolder</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqd3REZWNvZGVyRmFjdG9yeVw+</last-pattern>
+      <last-pattern>SecurityContextHolder</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
