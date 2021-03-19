@@ -148,11 +148,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scoreboard/docker-compose.yml" timestamp="1616154257387">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="25" />
+      <file name="$USER_HOME$/projects/scoreboard/docker-compose.yml" timestamp="1616154301088">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/projects/scoreboard/webservice/Dockerfile" timestamp="1615767604694">
         <mark key="[" line="0" column="13" />
