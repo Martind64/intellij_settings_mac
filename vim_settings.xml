@@ -28,9 +28,9 @@
       </history-search>
       <history-cmd>
         <entry>W</entry>
+        <entry>w</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,12 +118,30 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/saerbestilling/.gitignore" timestamp="1615765752804">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1615766635286">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/saerbestilling/settings.gradle" timestamp="1615766682192">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/scoreboard/webservice/build.gradle" timestamp="1615766558233">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1615766491425">
         <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/scoreboard/settings.gradle" timestamp="1615766683615">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scoreboard/build.gradle" timestamp="1615766555794">
         <mark key="[" line="0" column="0" />
@@ -134,6 +152,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scoreboard/webservice/Dockerfile" timestamp="1615767604694">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java" timestamp="1615760861512">
         <mark key="'" line="189" column="7" />
@@ -147,38 +171,6 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/saerbestilling/Dockerfile" timestamp="1615767916272">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/saerbestilling/.gitignore" timestamp="1615765752804">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="4" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1615766635286">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/scoreboard/webservice/build.gradle" timestamp="1615766558233">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="22" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/scoreboard/settings.gradle" timestamp="1615766683615">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/saerbestilling/webservice/Dockerfile" timestamp="1615767393535" />
-      <file name="$USER_HOME$/projects/saerbestilling/webservice/build.gradle" timestamp="1615768076282" />
-      <file name="$USER_HOME$/projects/scoreboard/webservice/Dockerfile" timestamp="1615767604694">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="15" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2LoginAuthenticationFilter.java" timestamp="1615760828867" />
       <file name="$USER_HOME$/projects/saerbestilling/docker-compose.yml" timestamp="1615767825708">
         <mark key="'" line="0" column="13" />
         <mark key="[" line="0" column="0" />
@@ -188,6 +180,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/saerbestilling/Dockerfile" timestamp="1615767916272">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -311,7 +308,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
