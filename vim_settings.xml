@@ -118,35 +118,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/saerbestilling/.gitignore" timestamp="1615765752804">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="4" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1615766635286">
+      <file name="/Dummy.txt" timestamp="1616711894842">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/adapter/authentication/RfPeopleAuthenticationService.java" timestamp="1616711649799" />
       <file name="$USER_HOME$/projects/saerbestilling/settings.gradle" timestamp="1615766682192">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/resources/application.yml" timestamp="1616711994426">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/security/WebSecurityConfig.java" timestamp="1616711280262">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scoreboard/webservice/build.gradle" timestamp="1615766558233">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="22" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1615766491425">
-        <mark key="[" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/projects/scoreboard/settings.gradle" timestamp="1615766683615">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scoreboard/build.gradle" timestamp="1615766555794">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/security/provider/SaerbestillingAuthenticationProvider.java" timestamp="1616711657669" />
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/build.gradle" timestamp="1616710744201">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scoreboard/docker-compose.yml" timestamp="1616154301088">
         <mark key="[" line="10" column="25" />
@@ -154,18 +158,32 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/adapter/people/pro/PeopleProClientAdapter.java" timestamp="1616711738077">
+        <mark key="[" line="19" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/scoreboard/webservice/Dockerfile" timestamp="1615767604694">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java" timestamp="1615760861512">
-        <mark key="'" line="189" column="7" />
-        <mark key="[" line="216" column="8" />
-        <mark key="]" line="216" column="8" />
-        <mark key="^" line="216" column="8" />
-        <mark key="." line="216" column="4" />
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/security/filter/SuccessHandler.java" timestamp="1616710631328">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/configuration/WebSecurityConfig.java" timestamp="1616710707409">
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="47" column="9" />
+        <mark key="." line="47" column="8" />
+        <mark key="^" line="47" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/adapter/controller/OrderController.java" timestamp="1616711949142">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/projects/scoreboard/Dockerfile" timestamp="1615767679823">
         <mark key="[" line="0" column="14" />
@@ -269,44 +287,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>kecloak</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CnBlb3BsZToKICBwZW9wbGVNOgogICAgdXJsOiAke1BFT1BMRV9NX1VSTDpodHRwczovL3Blb3BsZS1tLXRlc3Qucm9za2lsZGUtZmVzdGl2YWwuZGsvQXBpfQogICAgYXBpS2V5OiAke1BFT1BMRV9NX0FQSV9LRVk6RUVDQTJBMUEtQTA1OC00OUU0LTkxNEQtOTczMUMyRTZDMkExfQogIHBlb3BsZVBybzoKICAgIHVybDogJHtQRU9QTEVfUFJPX1VSTDpodHRwczovL3Blb3BsZS1wcm8tdGVzdC5yb3NraWxkZS1mZXN0aXZhbC5kay9BcGl9CiAgICBhcGlLZXk6ICR7UEVPUExFX1BST19BUElfS0VZOkVFQ0EyQTFBLUEwNTgtNDlFNC05MTRELTk3MzFDMkU2QzJBMX0=</text>
       </register>
       <register name="-" type="4">
-        <text>kecloak</text>
+        <text>order</text>
       </register>
       <register name="/" type="4">
         <text>12</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmVyc2lvbjogIjMuNyIKc2VydmljZXM6CiAgbW9uZ29kYjoKICAgIGltYWdlOiBtb25nbzozLjAuMAogICAgY29udGFpbmVyX25hbWU6IG1vbmdvZGIKICAgIHZvbHVtZXM6CiAgICAgIC0gLi9pbml0LW1vbmdvLmpzOi9kb2NrZXItZW50cnlwb2ludC1pbml0ZGIuZC9pbml0LW1vbmdvLmpzOnJvCiAgICAgIC0gLi9tb25nby12b2x1bWU6L2RhdGEvZGIKICAgIHBvcnRzOgogICAgICAtIDI3MDE3OjI3MDE3CgogIHdlYmFwcDoKICAgIGJ1aWxkOiAuL3dlYmFwcAogICAgY29udGFpbmVyX25hbWU6IHNhZXJiZXN0aWxsaW5nLXdlYmFwcAogICAgZGVwZW5kc19vbjoKICAgICAgLSB3ZWJzZXJ2aWNlCiAgICBwb3J0czoKICAgICAgLSA4MDo4MAoKICB3ZWJzZXJ2aWNlOgogICAgYnVpbGQ6IC4vd2Vic2VydmljZQogICAgY29udGFpbmVyX25hbWU6IHNhZXJiZXN0aWxsaW5nLXdlYnNlcnZpY2UKICAgIGVudmlyb25tZW50OgogICAgICAtIE1PTkdPX1VTRVJOQU1FPXVzZXIKICAgICAgLSBNT05HT19QQVNTV09SRD1wd2QKICAgICAgLSBNT05HT19IT1NUPW1vbmdvZGIKICAgIGRlcGVuZHNfb246CiAgICAgIC0gbW9uZ29kYgogICAgZXhwb3NlOgogICAgICAtIDgwODAKCgo=</text>
+        <text encoding="base64">IyAgICAgICAgICAgIHJlZGlyZWN0LXVyaTogaHR0cDovL2xvY2FsaG9zdDo4MDgwL2xvZ2luL29hdXRoMi9jb2RlLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnBlb3BsZToKICBwZW9wbGVNOgogICAgdXJsOiAke1BFT1BMRV9NX1VSTDpodHRwczovL3Blb3BsZS1tLXRlc3Qucm9za2lsZGUtZmVzdGl2YWwuZGsvQXBpfQogICAgYXBpS2V5OiAke1BFT1BMRV9NX0FQSV9LRVk6RUVDQTJBMUEtQTA1OC00OUU0LTkxNEQtOTczMUMyRTZDMkExfQogIHBlb3BsZVBybzoKICAgIHVybDogJHtQRU9QTEVfUFJPX1VSTDpodHRwczovL3Blb3BsZS1wcm8tdGVzdC5yb3NraWxkZS1mZXN0aXZhbC5kay9BcGl9CiAgICBhcGlLZXk6ICR7UEVPUExFX1BST19BUElfS0VZOkVFQ0EyQTFBLUEwNTgtNDlFNC05MTRELTk3MzFDMkU2QzJBMX0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgLSA4MDgwOjgwODAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAtIG1vbmdvZGIK</text>
+        <text encoding="base64">YXV0aDoKICBlbmFibGVkOiB0cnVlCiAgc2VjcmV0OiB0aGlzX2lzX3NlY3JldAogIGV4cGlyYXRpb25UaW1lOiAzNjAwMDAwMAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZGVwZW5kc19vbjoKICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIE1PTkdPX1VTRVJOQU1FPXVzZXIKICAgICAgLSBNT05HT19QQVNTV09SRD1wd2QKICAgICAgLSBNT05HT19IT1NUPW1vbmdvZGIK</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvaGVqIikKICAgIHB1YmxpYyBTdHJpbmcgcmV0dXJuSGVqKCkgewogICAgICAgIHJldHVybiAiQXV0aGVudGljYXRlZCI7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtb25nb2RiOgogICAgaW1hZ2U6IG1vbmdvOjMuMC4wCiAgICBjb250YWluZXJfbmFtZTogbW9uZ29kYgogICAgdm9sdW1lczoKICAgICAgLSAuL2luaXQtbW9uZ28uanM6L2RvY2tlci1lbnRyeXBvaW50LWluaXRkYi5kL2luaXQtbW9uZ28uanM6cm8KICAgICAgLSAuL21vbmdvLXZvbHVtZTovZGF0YS9kYgogICAgcG9ydHM6CiAgICAgIC0gMjcwMTc6MjcwMTcKCiAgd2ViYXBwOgogICAgYnVpbGQ6IC4vd2ViYXBwCiAgICBjb250YWluZXJfbmFtZTogc2FlcmJlc3RpbGxpbmctd2ViYXBwCiAgICBkZXBlbmRzX29uOgogICAgICAtIHdlYnNlcnZpY2UKICAgIHBvcnRzOgogICAgICAtIDgwOjgwCgo=</text>
+        <text encoding="base64">ICAjICBodHRwOgojICAgIGxvZy1yZXF1ZXN0LWRldGFpbHM6IHRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9pbmNsdWRlICd3ZWJzZXJ2aWNlJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CglpZCAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290JyB2ZXJzaW9uICcyLjQuMycKCWlkICdpby5zcHJpbmcuZGVwZW5kZW5jeS1tYW5hZ2VtZW50JyB2ZXJzaW9uICcxLjAuMTEuUkVMRUFTRScKCWlkICdqYXZhJwp9Cgpncm91cCA9ICdjb20uZG91YmxldHdvYmJsZS5zY29yZWJvYXJkJwp2ZXJzaW9uID0gJzAuMC4xLVNOQVBTSE9UJwpzb3VyY2VDb21wYXRpYmlsaXR5ID0gJzE1JwoKcmVwb3NpdG9yaWVzIHsKCW1hdmVuQ2VudHJhbCgpCn0KCmRlcGVuZGVuY2llcyB7CglpbXBsZW1lbnRhdGlvbiAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItd2ViJwoJdGVzdEltcGxlbWVudGF0aW9uICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0Jwp9Cgp0ZXN0IHsKCXVzZUpVbml0UGxhdGZvcm0oKQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
