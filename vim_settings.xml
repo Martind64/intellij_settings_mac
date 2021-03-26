@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>detail</entry>
         <entry>userd</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGlvbkRldGFpbHNTb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxvYXV0aDJDbGllbnRcPg==</entry>
@@ -25,11 +24,12 @@
         <entry>SecurityContext</entry>
         <entry>SecurityContextHolder</entry>
         <entry encoding="base64">XDxhdHRlbXB0QXV0aGVudGljYXRpb25cPg==</entry>
+        <entry>12</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
         <entry>qa</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -39,152 +39,171 @@
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFc=</text>
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFE=</text>
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEY=</text>
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEM=</text>
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEk=</text>
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE4=</text>
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEE=</text>
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEI=</text>
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFM=</text>
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFg=</text>
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFU=</text>
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFA=</text>
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE8=</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEg=</text>
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFk=</text>
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEU=</text>
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEo=</text>
+        <text>ctrl pressed J</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEw=</text>
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIDI=</text>
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEs=</text>
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE0=</text>
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/resources/application.yml" timestamp="1615667277954">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="12" />
-        <mark key="." line="17" column="12" />
-        <mark key="^" line="19" column="42" />
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/adapter/authentication/RfPeopleAuthenticationService.java" timestamp="1616711649799" />
+      <file name="$USER_HOME$/projects/saerbestilling/settings.gradle" timestamp="1615766682192">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2ClientConfigurer.java" timestamp="1615759082338" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/authentication/OAuth2AuthorizationCodeAuthenticationProvider.java" timestamp="1615664337423">
-        <mark key="'" line="87" column="51" />
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/resources/application.yml" timestamp="1616715149091">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="29" />
+        <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/InMemoryOAuth2AuthorizedClientService.java" timestamp="1615661821342" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/FilterChainProxy.java" timestamp="1615759676558">
-        <mark key="[" line="312" column="39" />
-        <mark key="]" line="312" column="39" />
-        <mark key="^" line="312" column="39" />
-        <mark key="." line="312" column="38" />
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/security/WebSecurityConfig.java" timestamp="1616715145270">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="18" />
+        <mark key="^" line="29" column="19" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" timestamp="1615759393953">
-        <mark key="'" line="1549" column="17" />
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/security/provider/SaerbestillingAuthenticationProvider.java" timestamp="1616711657669" />
+      <file name="$USER_HOME$/projects/scoreboard/docker-compose.yml" timestamp="1616154301088">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.4.5/c1616b78f466a5bfe0e206cbe1523bd71c6c612/spring-security-core-5.4.5-sources.jar!/org/springframework/security/authentication/ProviderManager.java" timestamp="1615665038739" />
-      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/security/filter/JwtAuthenticationFilter.java" timestamp="1615664744404" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/oidc/authentication/OidcAuthorizationCodeAuthenticationProvider.java" timestamp="1615667538365">
-        <mark key="'" line="212" column="33" />
-        <mark key="[" line="120" column="8" />
-        <mark key="]" line="120" column="37" />
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/adapter/people/pro/PeopleProClientAdapter.java" timestamp="1616711738077">
+        <mark key="[" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/authentication/AnonymousAuthenticationFilter.java" timestamp="1615759352223" />
-      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/configuration/WebSecurityConfig.java" timestamp="1615759813421">
-        <mark key="'" line="63" column="21" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/test/resources/application.yml" timestamp="1616713125111">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java" timestamp="1615760861512">
-        <mark key="'" line="189" column="7" />
-        <mark key="[" line="216" column="8" />
-        <mark key="]" line="216" column="8" />
-        <mark key="^" line="216" column="8" />
-        <mark key="." line="216" column="4" />
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/configuration/WebSecurityConfig.java" timestamp="1616710707409">
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="47" column="9" />
+        <mark key="." line="47" column="8" />
+        <mark key="^" line="47" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/adapter/controller/OrderController.java" timestamp="1615758938184">
-        <mark key="[" line="32" column="28" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="27" />
-        <mark key="^" line="32" column="28" />
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/adapter/controller/OrderController.java" timestamp="1616711949142">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" timestamp="1615660287066">
-        <mark key="'" line="97" column="35" />
+      <file name="$USER_HOME$/projects/scoreboard/Dockerfile" timestamp="1615767679823">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.4.5/66d21995cc8fa0175d9f224e3d4d504e295029f4/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.java" timestamp="1615664880191">
-        <mark key="'" line="169" column="28" />
+      <file name="$USER_HOME$/projects/saerbestilling/Dockerfile" timestamp="1615767916272">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/web/AuthenticatedPrincipalOAuth2AuthorizedClientRepository.java" timestamp="1615662626426">
-        <mark key="[" line="109" column="102" />
-        <mark key="]" line="109" column="102" />
-        <mark key="^" line="109" column="102" />
-        <mark key="." line="109" column="101" />
+      <file name="/Dummy.txt" timestamp="1616711894842">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/saerbestilling/webservice/build.gradle" timestamp="1615765537579" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/DefaultRedirectStrategy.java" timestamp="1615660790995">
-        <mark key="'" line="28" column="32" />
+      <file name="$USER_HOME$/projects/scoreboard/settings.gradle" timestamp="1615766683615">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationCodeGrantFilter.java" timestamp="1615665164145">
-        <mark key="'" line="161" column="84" />
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/build.gradle" timestamp="1616710744201">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.4.5/23774ae2e3c914a9324b4bf46d79850e19441e91/spring-security-oauth2-client-5.4.5-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2LoginAuthenticationFilter.java" timestamp="1615760828867" />
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/configuration/modelmapper/ModelMapperConfiguration.java" timestamp="1616713175298" />
+      <file name="$USER_HOME$/projects/scoreboard/webservice/Dockerfile" timestamp="1615767604694">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/security/filter/SuccessHandler.java" timestamp="1616710631328">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/saerbestilling/docker-compose.yml" timestamp="1615767825708">
+        <mark key="'" line="0" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="31" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="11" column="3" filename="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/adapter/controller/hello.java" />
@@ -260,48 +279,55 @@
       <jump line="102" column="49" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java" />
       <jump line="188" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java" />
       <jump line="189" column="7" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.4.5/82ebcd61416a68e79e273d5ed3e988f44fe090d1/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/saerbestilling/.gitignore" />
+      <jump line="0" column="8" filename="$USER_HOME$/projects/scoreboard/build.gradle" />
+      <jump line="0" column="13" filename="$USER_HOME$/projects/saerbestilling/docker-compose.yml" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/security/WebSecurityConfig.java" />
+      <jump line="12" column="8" filename="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/security/WebSecurityConfig.java" />
+      <jump line="11" column="7" filename="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/security/WebSecurityConfig.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/saerbestilling/webservice/src/main/java/dk/rfit/saerbestilling/security/WebSecurityConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>ev</text>
       </register>
       <register name="-" type="4">
-        <text>@AuthenticationPrincipal OAuth2User principal</text>
+        <text>ev</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdHRlbXB0QXV0aGVudGljYXRpb25cPg==</text>
+        <text>12</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIHJlZGlyZWN0LXVyaTogaHR0cDovL2xvY2FsaG9zdDo4MDgwL2xvZ2luL29hdXRoMi9jb2RlLwo=</text>
+        <text encoding="base64">ICAgIEBDb25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAub2EK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kKCkKICAgICAgICAgICAgICAgICAgICAuand0Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kKCkK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaGVhZGVycygpCiAgICAgICAgICAgICAgICAgICAgLnJlZmVycmVyUG9saWN5KFJlZmVycmVyUG9saWN5SGVhZGVyV3JpdGVyLlJlZmVycmVyUG9saWN5LlNBTUVfT1JJR0lOKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaGVhZGVycygpCiAgICAgICAgICAgICAgICAgICAgLnJlZmVycmVyUG9saWN5KFJlZmVycmVyUG9saWN5SGVhZGVyV3JpdGVyLlJlZmVycmVyUG9saWN5LlNBTUVfT1JJR0lOKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3VjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kKCkKICAgICAgICAgICAgICAgICAgICAuaGVhZGVycygpCiAgICAgICAgICAgICAgICAgICAgLnJlZmVycmVyUG9saWN5KFJlZmVycmVyUG9saWN5SGVhZGVyV3JpdGVyLlJlZmVycmVyUG9saWN5LlNBTUVfT1JJR0lOKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCB2YXIgbGluZTEgPSAiIjsKICAgICAgICBmaW5hbCB2YXIgbGluZTIgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCB2YXIgbGluZTEgPSAiIjsKICAgICAgICBmaW5hbCB2YXIgbGluZTIgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBoZWxsbyhTdHJpbmcgaGVqLCBTdHJpbmcgd2hhdCkgewogICAgICAgIGZpbmFsIHZhciBoID0gImhWdWVqIjsKICAgICAgICBmaW5hbCB2YXIgaCA9ICJoZWoiOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmVmZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -310,15 +336,15 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhdHRlbXB0QXV0aGVudGljYXRpb25cPg==</last-search>
+      <last-search>12</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdHRlbXB0QXV0aGVudGljYXRpb25cPg==</last-pattern>
+      <last-pattern>12</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
