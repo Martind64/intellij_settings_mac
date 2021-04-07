@@ -119,6 +119,9 @@
   </action>
   <action id="Switcher" />
   <action id="TableResult.UnselectPreviousOccurrence" />
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="altGraph n" />
+  </action>
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="ctrl f8" />
     <keyboard-shortcut first-keystroke="alt b" />
