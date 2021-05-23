@@ -1,0 +1,45 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift meta #10000e5" />
+  </action>
+  <action id="EditorCutLineEnd" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoRow" />
+  <action id="Gradle.ExecuteTask">
+    <keyboard-shortcut first-keystroke="ctrl meta alt g" />
+  </action>
+  <action id="GuiDesigner.QuickJavadoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.Log.ShowTooltip">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+</keymap>
