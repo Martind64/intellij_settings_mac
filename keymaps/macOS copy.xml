@@ -2,6 +2,12 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift meta #10000e5" />
   </action>
+  <action id="Console.TableResult.NavigateForeignAction">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="EditorCutLineEnd" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
@@ -12,6 +18,14 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+    <keyboard-shortcut first-keystroke="ctrl meta x" />
   </action>
   <action id="GotoLine" />
   <action id="GotoRow" />
