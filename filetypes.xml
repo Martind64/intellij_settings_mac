@@ -16,6 +16,7 @@
       <mapping pattern="IndexPrivateMessageCommandWithoutConversationUuid.json" type="PLAIN_TEXT" />
       <mapping pattern="FacebookNestedCommentAdded" type="PLAIN_TEXT" />
       <mapping pattern="getExportResponse" type="PLAIN_TEXT" />
+      <mapping ext="templaterequest" type="PLAIN_TEXT" />
       <mapping ext="what" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
