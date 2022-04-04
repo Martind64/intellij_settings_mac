@@ -1,21 +1,21 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="V3__partner_app_connection_to_integration.sql" type="AUTO_DETECTED" />
       <mapping pattern="GovernanceOrgDeletionEvent.json" type="AUTO_DETECTED" />
       <mapping pattern="partnerAppConnected.json" type="AUTO_DETECTED" />
-      <mapping pattern="V3__partner_app_connection_to_integration.sql" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="FacebookNestedCommentAdded" type="PLAIN_TEXT" />
+      <mapping pattern="contentHidden" type="PLAIN_TEXT" />
+      <mapping pattern="getExportResponse" type="PLAIN_TEXT" />
+      <mapping pattern="FacebookReplyRemoved.json" type="PLAIN_TEXT" />
+      <mapping pattern="commentUnlabeledWithoutParent" type="PLAIN_TEXT" />
+      <mapping pattern="IndexPrivateMessageCommandWithoutConversationUuid.json" type="PLAIN_TEXT" />
+      <mapping pattern="CommentCreatedByUser" type="PLAIN_TEXT" />
       <mapping pattern="commentRead" type="PLAIN_TEXT" />
       <mapping pattern="getConversationInfo.py" type="PLAIN_TEXT" />
-      <mapping pattern="commentUnlabeledWithoutParent" type="PLAIN_TEXT" />
-      <mapping pattern="CommentCreatedByUser" type="PLAIN_TEXT" />
-      <mapping pattern="contentHidden" type="PLAIN_TEXT" />
-      <mapping pattern="FacebookReplyRemoved.json" type="PLAIN_TEXT" />
-      <mapping pattern="IndexPrivateMessageCommandWithoutConversationUuid.json" type="PLAIN_TEXT" />
-      <mapping pattern="FacebookNestedCommentAdded" type="PLAIN_TEXT" />
-      <mapping pattern="getExportResponse" type="PLAIN_TEXT" />
       <mapping ext="templaterequest" type="PLAIN_TEXT" />
       <mapping ext="what" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
